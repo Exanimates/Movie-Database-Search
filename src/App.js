@@ -15,7 +15,6 @@ class App extends Component {
         </header>
 
         <input id="search_input" placeholder="Enter search term"/>
-        <p>Kek</p>
       </div>
     );
   }
