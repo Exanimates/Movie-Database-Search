@@ -9,7 +9,7 @@ class App extends Component {
 
         <header>
           <div id="left_header_block">
-              <img width="50" src="favicon.ico"></img>
+              <img width="70" src="favicon.ico"></img>
               <h1>MovieDB Search</h1>
           </div>      
         </header>
