@@ -5,9 +5,6 @@ header{
     height: 100px;
     padding: 10px 0px 0px 10px;
   }
-  .App {
-    text-align: center;
-  }
   #left_header_block{
     width: 550px;
     display: inline-flex;
